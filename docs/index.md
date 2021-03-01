@@ -1,9 +1,9 @@
 ---
-title: /
+title: /useless_machine
 layout: home
-permalink: /
+permalink: /useless_machine
 ---
 
 # Welcome
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+future use undetermined
