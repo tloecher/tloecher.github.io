@@ -21,7 +21,7 @@
 
 title: 'useless machine'
 description: "future use undetermined"
-# baseurl: "/jekyll-theme-console-demo-dark"
+baseurl: "/useless_machine"
 url: "https://tloecher.github.io"
 
 header_pages:
@@ -30,7 +30,7 @@ header_pages:
   - about.md
   - contact.md
 
-style: dark
+style: hacker
 
 # footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
