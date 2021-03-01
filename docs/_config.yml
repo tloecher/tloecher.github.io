@@ -21,7 +21,7 @@
 
 title: 'useless machine'
 description: "future use undetermined"
-baseurl: "/useless_machine"
+# baseurl: "/useless_machine"
 url: "https://tloecher.github.io"
 
 header_pages:
