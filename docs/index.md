@@ -1,7 +1,7 @@
 ---
-title: /useless_machine
+title: useless machine
 layout: home
-permalink: /useless_machine
+permalink: useless_machine
 ---
 
 # Welcome
