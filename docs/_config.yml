@@ -26,13 +26,13 @@ url: "https://tloecher.github.io"
 
 header_pages:
   - index.md
-  - till.md
+  - projects.md
   - about.md
   - contact.md
 
 style: hacker
 
-# footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: Till Loecher
 
 # Build settings
 markdown: kramdown
