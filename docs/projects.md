@@ -4,8 +4,6 @@ layout: page
 permalink: /projects
 ---
 
-# Stuff I'm working on
-
 ## Systematic trading
 
 * Trend following
