@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Valhalla!"
+title:  "Placeholder (WIP)"
 date:   2018-11-07 12:32:45 +0100
 categories:
 ---
