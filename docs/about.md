@@ -11,5 +11,5 @@ I'm interested in:
 * decentralised finance 
 * backcountry skiing  
 <br>
-I used to trade interest rate swaps institutionally.
+I used to trade interest rate swaps institutionally.  
 Now I trade FX and crypto at a start up.
