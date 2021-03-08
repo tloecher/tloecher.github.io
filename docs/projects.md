@@ -6,10 +6,11 @@ permalink: /projects
 
 ## Systematic trading
 
-* Trend following
+* Trend following (diversified futures)
 * Relative momentum ETF portfolio
 
 ## Crypto
 
 * Untitled DeFi protocol
-* AMM arbitrage automation
+* NFT drop bot
+* ETH2 PoS node
