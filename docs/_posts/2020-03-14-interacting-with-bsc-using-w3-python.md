@@ -11,7 +11,7 @@ So I decided to write a script to do the following things:
 - Fetch the available pool size
 - Approve the pool's contract
 - Deposit funds into the pool 
-
+<br> 
 In order to do that I needed the following:  
 - An API to access BSC => Ankr
 - A couple of ABIs for the tokens and pool contracts => BSCScan
